@@ -68,7 +68,7 @@ def target(path):
 
     return target_name, output
 
-def makefile(toolchain, rom_path, offset=0x800000):
+def makefile(toolchain, rom_path, offset=0x8000000):
     with open('targets') as file:
         lines = [line.strip() for line in file]
         targets = dict(target(line) for line in lines)

@@ -9,7 +9,7 @@
 //	+ 512 tiles lz77 compressed
 //	Total size: 512 + 2392 = 2904
 //
-//	Time-stamp: 2014-09-07, 21:02:49
+//	Time-stamp: 2025-03-05, 17:03:03
 //	Exported by Cearn's GBA Image Transmogrifier, v0.8.6
 //	( http://www.coranac.com/projects/#grit )
 //
@@ -100,7 +100,7 @@ const unsigned int dawnshrinkTiles[598] __attribute__((aligned(4)))=
 
 	0xF0CB10FB,0x5F03B101,0x2203D0EB,0x01F01E41,0xF001F0FF,0xF001F001,0xF001F001,0xF001F001,
 	0xEF80FE01,0xE75101D0,0xD0100111,0x1410FF11,0x21120600,0x11200022,0x21EF11F3,0x31EB21E3,
-	0x020B1003,0x19122200,0xF0FC3902,0xF001F001,0xF001F001,0xFF013001,
+	0x020B1003,0x19122200,0xF0FC3902,0xF001F001,0xF001F001,0x00013001,
 };
 
 const unsigned short dawnshrinkPal[256] __attribute__((aligned(4)))=

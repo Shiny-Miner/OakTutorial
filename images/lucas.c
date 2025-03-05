@@ -9,7 +9,7 @@
 //	+ 512 tiles lz77 compressed
 //	Total size: 32 + 5380 = 5412
 //
-//	Time-stamp: 2014-09-07, 21:02:49
+//	Time-stamp: 2025-03-05, 17:03:03
 //	Exported by Cearn's GBA Image Transmogrifier, v0.8.6
 //	( http://www.coranac.com/projects/#grit )
 //
@@ -206,7 +206,7 @@ const unsigned int lucasTiles[1345] __attribute__((aligned(4)))=
 	0x01F001F0,0xF0FF01F0,0xF001F001,0x5A01F001,0x5301F0C7,0xF4F2719F,0xFB23AE14,0x3F0BBF54,
 	0xDDE3001D,0xAB04AA5A,0xA1AF04AA,0x141DF701,0xF3FF01B7,0xF001F0D3,0xF001F001,0xF001F001,
 
-	0x05018001,
+	0x06018001,
 };
 
 const unsigned short lucasPal[16] __attribute__((aligned(4)))=

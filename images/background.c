@@ -9,7 +9,7 @@
 //	+ regular map (in SBBs), lz77 compressed, 32x32 
 //	Total size: 512 + 52 + 284 = 848
 //
-//	Time-stamp: 2014-09-07, 21:02:49
+//	Time-stamp: 2025-03-05, 17:03:03
 //	Exported by Cearn's GBA Image Transmogrifier, v0.8.6
 //	( http://www.coranac.com/projects/#grit )
 //
@@ -18,7 +18,7 @@
 const unsigned int backgroundTiles[13] __attribute__((aligned(4)))=
 {
 	0x0000C010,0xF0000032,0x88059001,0x3301B088,0x01B03349,0x01B06666,0x01B02222,0xB0777724,
-	0xB0444401,0xCC555501,0x059001F0,0x01F01111,0xF0010590,
+	0xB0444401,0xCC555501,0x059001F0,0x01F01111,0x00000590,
 };
 
 const unsigned short backgroundMap[142] __attribute__((aligned(4)))=

@@ -9,7 +9,7 @@
 //	+ 128 tiles lz77 compressed
 //	Total size: 32 + 1660 = 1692
 //
-//	Time-stamp: 2014-09-07, 21:02:49
+//	Time-stamp: 2025-03-05, 17:03:03
 //	Exported by Cearn's GBA Image Transmogrifier, v0.8.6
 //	( http://www.coranac.com/projects/#grit )
 //
@@ -74,7 +74,7 @@ const unsigned int rivalTiles[415] __attribute__((aligned(4)))=
 	0x0B01D003,0xEB900330,0x03604F12,0x01215F11,0xFFF01203,0x01F001F0,0x01F001F0,0x040A50D8,
 	0x6904D09F,0x555D0320,0x0B08E855,0x98038AA9,0x598B1511,0xDD0FD955,0x290DD995,0xF013F897,
 	0xEA068056,0x4617E711,0x0B913B0B,0x4F0B514B,0x4B0DA19D,0xD14F1BD0,0x03221111,0xD2112BD7,
-	0x0AD1EF05,0xEF13D5FE,0x0D0FF905,0x18DD9999,0xF04EF096,0x8001F001,0x00000180,
+	0x0AD1EF05,0xEF13D5FE,0x0D0FF905,0x18DD9999,0xF04EF096,0x8001F001,0x6F600180,
 };
 
 const unsigned short rivalPal[16] __attribute__((aligned(4)))=

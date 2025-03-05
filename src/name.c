@@ -1,3 +1,4 @@
+#include <string.h>
 #include "engine/video.h"
 #include "engine/text.h"
 #include "engine/callback.h"

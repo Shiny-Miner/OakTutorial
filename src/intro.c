@@ -6,6 +6,8 @@
 #include "engine/input.h"
 #include "engine/script.h"
 #include "global.h"
+#include <string.h>
+
 
 /*
  * All measurements are given in tiles

@@ -9,7 +9,7 @@
 //	+ 128 tiles lz77 compressed
 //	Total size: 32 + 1720 = 1752
 //
-//	Time-stamp: 2014-09-08, 01:47:49
+//	Time-stamp: 2025-03-05, 17:03:03
 //	Exported by Cearn's GBA Image Transmogrifier, v0.8.6
 //	( http://www.coranac.com/projects/#grit )
 //
@@ -76,7 +76,7 @@ const unsigned int profTiles[430] __attribute__((aligned(4)))=
 	0x7FF3D303,0x00EB2052,0x430330FF,0x124770F2,0x990320E3,0x75C00C24,0x03305110,0x060B222C,
 	0xB715CC50,0x550501CC,0x0A11CCC5,0xCC225557,0x10225201,0x22162203,0x5E04C222,0x14F3900C,
 	0x40F0C26C,0x70B86003,0xCC5E00F3,0x25C00052,0x03205522,0x5F00CC00,0x005F1000,0xC1CCC10C,
-	0xCC55520C,0x75550005,0xB2010C57,0xE00310C5,0xF1F05F50,0x000001B0,
+	0xCC55520C,0x75550005,0xB2010C57,0xE00310C5,0xF1F05F50,0x888801B0,
 };
 
 const unsigned short profPal[16] __attribute__((aligned(4)))=
